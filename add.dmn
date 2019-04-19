@@ -4,4 +4,3 @@ COIN_DAEMON="addd"
 COIN_CLI="add-cli"
 COIN_FOLDER="/root/.add"
 COIN_CONFIG="/root/.add/add.conf"
-RPC_PORT=2152
